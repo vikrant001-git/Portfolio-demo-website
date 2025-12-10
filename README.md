@@ -43,9 +43,12 @@ git clone https://github.com/vikrant001-git/Portfolio-demo-website.git<br><br>
 http://localhost/Portfolio-demo-website/Frontend/index.php<br>
 <br>
 <br>
-## 📸 Demo<br><br>
-I’ll add a live demo link soon — for now, you can run it locally and explore.<br><br>
-## 🤝 Contributing<br>
-If you’d like to improve this project, feel free to fork it, make changes, and open a pull request. Suggestions are always welcome.<br><br>
-## 📄 License<br>
-This project is under the MIT License. You’re free to use it, modify it, and make it your own.<br>
+
+## 📸 Demo
+I’ll add a live demo link soon — for now, you can run it locally and explore.
+
+## 🤝 Contributing
+If you’d like to improve this project, feel free to fork it, make changes, and open a pull request. Suggestions are always welcome.
+
+## 📄 License
+This project is under the **MIT License**. You’re free to use it, modify it, and make it your own.
